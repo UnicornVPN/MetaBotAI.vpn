@@ -1,2 +1,2 @@
 # MetaBotAI.vpn
-A Pluginfor MetaBot letting you access inexpensive &amp; plentiful Proxies &amp; IPs!
+A Pluginfor MetaBot letting you access inexpensive &amp; plentiful Proxies &amp; IPs on UnicornNetwork!
